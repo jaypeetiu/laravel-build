@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Routes from "./routes";
+import "tailwindcss/tailwind.css"
 
 function App() {
   // return (

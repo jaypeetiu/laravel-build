@@ -5,7 +5,7 @@ import {Button} from 'antd';
 
 const MainPage = () => {
     return (
-        <Button type="primary"> Primary Button</Button>
+        <h5 className={`text-center mt-5`}>Testing React</h5>
     );
 };
 
